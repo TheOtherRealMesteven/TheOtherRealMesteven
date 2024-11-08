@@ -27,13 +27,13 @@
     <!-- Main Account Top Languages -->
     <td>
       <a href="https://github.com/TheRealMesteven">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
       </a>
     </td>
     <!-- Professional Account Top Languages -->
     <td>
       <a href="https://github.com/TheOtherRealMesteven">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
       </a>
     </td>
   </tr>
