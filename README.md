@@ -37,15 +37,15 @@
       </a>
     </td>
   </tr>
-  <!-- Row 3: Activity Graph -->
+  <!-- Link seems to be broken
   <tr>
-    <!-- Main Account Activity Graph -->
+    <!-- Main Account Activity Graph
     <td>
       <a href="https://github.com/TheRealMesteven">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" alt = "Activity Graph Here"
       </a>
     </td>
-    <!-- Professional Account Activity Graph -->
+    <!-- Professional Account Activity Graph
     <td>
       <a href="https://github.com/TheOtherRealMesteven">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheOtherRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" alt = "Activity Graph Here"
