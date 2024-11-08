@@ -5,32 +5,70 @@
 <h2></h2>
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
+  <!-- Row 1: Streak Stats -->
   <tr>
-    <td rowspan="2">
-      <p align="left"> <a href="https://github.com/TheOtherRealMesteven">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
-</a> </p></td>
-    <td><a href="https://github.com/TheOtherRealMesteven">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheOtherRealMesteven&theme=black-ice&&background=151515&&ring=00bfff&&fire=00bfff&currStreakLabel=00bfff" alt="Streak stats here"/>
-</a> </td>
+    <!-- Main Account Streak Stats -->
+    <td>
+      <h3 align="center">Main Account</h3>
+      <a href="https://github.com/TheRealMesteven">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMesteven&theme=black-ice&&background=151515&&ring=00bfff&&fire=00bfff&currStreakLabel=00bfff" alt="Streak stats here"/>
+      </a> 
+    </td>
+    <!-- Professional Account Streak Stats -->
+    <td>
+      <h3 align="center">Professional Account</h3>
+      <a href="https://github.com/TheOtherRealMesteven">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheOtherRealMesteven&theme=black-ice&&background=151515&&ring=00bfff&&fire=00bfff&currStreakLabel=00bfff" alt="Streak stats here"/>
+      </a> 
+    </td>
   </tr>
+  <!-- Row 2: Top Languages -->
   <tr>
-    <td><a href="https://github.com/TheOtherRealMesteven">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheOtherRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=00bfff&icon_color=00bfff&border_color=fffffff" alt="Github Stats Here"/>
-</a></td>
+    <!-- Main Account Top Languages -->
+    <td>
+      <a href="https://github.com/TheRealMesteven">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
+      </a>
+    </td>
+    <!-- Professional Account Top Languages -->
+    <td>
+      <a href="https://github.com/TheOtherRealMesteven">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOtherRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" alt="Coding Stats Here" />
+      </a>
+    </td>
   </tr>
-  </table>
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- Row 3: Activity Graph -->
+  <tr>
+    <!-- Main Account Activity Graph -->
+    <td>
+      <a href="https://github.com/TheRealMesteven">
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" alt = "Activity Graph Here"
+      </a>
+    </td>
+    <!-- Professional Account Activity Graph -->
+    <td>
+      <a href="https://github.com/TheOtherRealMesteven">
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheOtherRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" alt = "Activity Graph Here"
+      </a>
+    </td>
+  </tr>
+  <!-- Row 4: GitHub Stats -->
+  <tr>
+    <!-- Main Account GitHub Stats -->
+    <td>
+      <a href="https://github.com/TheRealMesteven">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=00bfff&icon_color=00bfff&border_color=fffffff" alt="Github Stats Here"/>
+      </a>
+    </td>
+    <!-- Professional Account GitHub Stats -->
+    <td>
+      <a href="https://github.com/TheOtherRealMesteven">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheOtherRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=00bfff&icon_color=00bfff&border_color=fffffff" alt="Github Stats Here"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2></h2>
-
-<td><a href="https://github.com/TheOtherRealMesteven">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheOtherRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" alt = "Activity Graph Here"
-</a></td>
-
-<!-- Ashish Kumar Activity Graph -->
 
 <br>
